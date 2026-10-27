@@ -467,7 +467,7 @@ Possible improvements include:
 
 ## 👩‍💻 Author
 
-**Lahitha Valluri**
+**Konatham Deevena**
 
 B.Tech – Information Technology
 
